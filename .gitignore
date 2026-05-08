@@ -2,6 +2,7 @@
 *.parquet
 *.gz
 *.dat
+*.txt
 
 # Environment variables
 .env
