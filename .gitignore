@@ -1,1 +1,11 @@
-.env  # private path, API keys included files
+# Data files
+*.parquet
+*.gz
+*.dat
+
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
